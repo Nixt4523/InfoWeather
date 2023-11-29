@@ -18,8 +18,8 @@ const WeatherScreen = () => {
         url: 'https://weatherapi-com.p.rapidapi.com/current.json',
         params: { q: cityName },
         headers: {
-            'X-RapidAPI-Key': '5571878e7bmsh79c3c7aa78acf97p1ba3fejsn33b966792861',
-            'X-RapidAPI-Host': 'weatherapi-com.p.rapidapi.com'
+            'X-RapidAPI-Key': 'X-RapidAPI-Key',
+            'X-RapidAPI-Host': 'X-RapidAPI-Host'
         }
     }
 
